@@ -11,4 +11,8 @@ hot
 hot
 hot
 hot
+<<<<<<< HEAD
 hot master
+=======
+hot hot
+>>>>>>> hot
